@@ -36,8 +36,8 @@ def loadData(fileName):
             labelArr.append(-1)
 
         # 存放数据
-        #[int(num) for num in curLine[1:]]
-        #[int(num)/255 for num in curLine[1:]] # 将所有数据除以255归一化（非必须步骤，可以不归一化）
+        # [int(num) for num in curLine[1:]]
+        # [int(num)/255 for num in curLine[1:]] # 将所有数据除以255归一化（非必须步骤，可以不归一化）
         dataArr.append([int(num)/255 for num in curLine[1:]])
 
     # 返回data和label
