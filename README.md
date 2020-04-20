@@ -5,6 +5,7 @@
 https://github.com/Dod-o/Statistical-Learning-Method_Code
 
 ## 方法讲解
+https://www.pkudodo.com/  
 原作者博客，包括从感知机到SVM的讲解，有很多作者自己的理解，推荐在读代码前阅读。  
 
 ## 数据集
