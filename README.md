@@ -1,5 +1,5 @@
 # Machine-Learning-Coding
-《统计学习方法》学习与实现
+第二版《统计学习方法》学习与实现
 
 ## 代码
 https://github.com/Dod-o/Statistical-Learning-Method_Code
