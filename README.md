@@ -2,7 +2,10 @@
 《统计学习方法》学习与实现
 
 ## 代码
-代码基于https://github.com/Dod-o/Statistical-Learning-Method_Code
+https://github.com/Dod-o/Statistical-Learning-Method_Code
+
+## 方法讲解
+原作者博客，包括从感知机到SVM的讲解，有很多作者自己的理解，推荐在读代码前阅读。  
 
 ## 数据集
 MNIST数据集是手写数字数据集，包含 60,000 个训练样本和 10,000 个测试样本，0-9共10种手写数字。  
